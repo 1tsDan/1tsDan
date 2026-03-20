@@ -11,8 +11,8 @@ Computer Science student @ IPCB • Backend-leaning dev focused on clean archite
 
 ## What I’m Working On
 
-- A full-stack Gym Tracker application, currently working on the backend
-- The backend of my Software Engineering course project
+- A full-stack Gym Tracker application, currently working on the backend (.NET)
+- The backend of my Software Engineering course project (Spring Boot)
 - Learning C
 
 ## Interests
