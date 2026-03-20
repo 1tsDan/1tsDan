@@ -19,7 +19,7 @@ Computer Science student @ IPCB • Backend-leaning dev focused on clean archite
 
 - Backend engineering, and database design
 - Low-level programming, computer organization, and performance
-- body-building and F1
+- Body-building and F1
 - Music, gaming, and eventually learning guitar
 
 
