@@ -1,17 +1,17 @@
 # Hi, I'm Daniel
 
-Computer Science student @ IPCB • Backend-leaning dev focused on clean architectures, databases, and scalable APIs. [memory:cite:4][memory:cite:5]
+Computer Science student @ IPCB • Backend-leaning dev focused on clean architectures, databases, and scalable APIs.
 
 ## Tech Stack
 
-- Languages: Java, C#, C, JS, React, SQL [memory:cite:3]
-- Backend: Spring Boot, .NET, REST APIs [memory:cite:1]
+- Languages: Java, C#, C, JS, React, SQL
+- Backend: Spring Boot, .NET, REST APIs
 - Databases: PostgreSQL, SQL Server
 - Tools: Git, Docker, Linux (Arch)
 
 ## What I’m Working On
 
-- A full-stack Gym Tracker application, currently working on the backend [memory:cite:1]
+- A full-stack Gym Tracker application, currently working on the backend
 - The backend of my Software Engineering course project
 - Learning C
 
@@ -26,5 +26,5 @@ Computer Science student @ IPCB • Backend-leaning dev focused on clean archite
 ## Contacts
 
 - Email: `danielpadre58@gmail.com`
-- LinkedIn: [https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/daniel-rian-927851375/)
+- LinkedIn: [https://www.linkedin.com/in/daniel-rian-927851375/](https://www.linkedin.com/in/daniel-rian-927851375/)
 
