@@ -7,7 +7,7 @@ Computer Science student @ IPCB • Backend-leaning dev focused on clean archite
 - Languages: Java, C#, C, JS, React, SQL
 - Backend: Spring Boot, .NET, REST APIs
 - Databases: PostgreSQL, SQL Server
-- Tools: Git, Docker, Linux (Arch)
+- Tools: Git, Docker, Linux (Fedora)
 
 ## What I’m Working On
 
