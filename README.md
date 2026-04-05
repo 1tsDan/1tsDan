@@ -26,5 +26,5 @@ Computer Science student @ IPCB • Backend-leaning dev focused on clean archite
 ## Contacts
 
 - Email: `danielpadre58@gmail.com`
-- LinkedIn: [https://www.linkedin.com/in/daniel-rian-927851375/](https://www.linkedin.com/in/daniel-rian-927851375/)
+  
 
